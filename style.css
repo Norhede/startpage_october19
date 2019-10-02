@@ -1,0 +1,53 @@
+/* background-color: #3c7dc4; LYSEBLÃ… */
+
+body {
+	background-color: #000000;
+	font-family: 'Indie Flower', cursive;
+	padding: 0;
+	margin: 0 auto;
+	color: #ffffff;
+    text-align: center;
+}
+
+.column {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+	font-size: 18px;
+    font-weight: bold;
+	width: 20%;
+	border-color: #ff0000;
+	border-style: solid;
+	border: 0;
+	margin-top: 1em;
+	float: left;
+}
+
+#quote {
+    font-size: 24px;
+    font-weight: bold;
+    clear: both;
+    padding-top: 2em;
+    color: #000;
+    text-shadow: 1px 1px #fff, -1px 1px #fff, 1px -1px #fff, -1px -1px #fff;
+}
+
+a {
+    background-color: #000;
+    color: white;
+    text-decoration: none;
+    display: block;
+    padding: 0.5em;
+    margin: 0.5em;
+    border: 2px solid #fff;
+    border-radius: 10px;
+}
+
+a:hover {
+    background-color: #fff;
+    color: #000;
+    border-color: orange;
+}
+
+.clear {
+    clear: both;
